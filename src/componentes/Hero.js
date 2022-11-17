@@ -17,7 +17,7 @@ function Hero() {
                             className="carousel-item active"
                             style={{
                                 backgroundImage:
-                                    "...../public/assets/img/slide/slide-1.png",
+                                    "url(assets/img/slide/slide-1.png)",
                             }}
                         >
                             <div className="carousel-container">
